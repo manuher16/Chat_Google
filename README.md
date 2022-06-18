@@ -1,4 +1,8 @@
-# x0_game
+# Chat Google
+
+La siquiente pagina se darrollo con firebase 9 y vue 3, la app es un chat general donde te loguearas con Google y accederas a un chat publico
+
+[Chat Google ](https://x0-game-5d542.web.app/)
 
 ## Project setup
 ```

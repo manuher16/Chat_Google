@@ -7,6 +7,7 @@
       <v-btn>Iniciar</v-btn>
     </router-link>
     <v-btn @click="logout" v-if="user">Salir</v-btn>
+    <a href="/about" class="text-button link"> Sobre</a>
   </v-app-bar>
 </template>
 
@@ -47,4 +48,8 @@ export default {
 </script>
 
 <style>
+.link {
+  text-decoration: none;
+  color: black;
+}
 </style>

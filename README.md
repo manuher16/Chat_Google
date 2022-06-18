@@ -1,4 +1,7 @@
-# x0_game
+# Chat google
+
+
+Entrar al siquiente link para user la app [Chat Google](https://x0-game-5d542.web.app/)
 
 ## Project setup
 ```
